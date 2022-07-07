@@ -2,7 +2,7 @@
 
 <h2>About</h2>
 
-<p>Projects references to the "Functions" course of Bootcamp TQI Fullstack Developer - DIO</p>
+<p>Projects references to the "Functions" course of <a href="https://www.dio.me/en">Bootcamp TQI Fullstack Developer - DIO.</a></p>
 <br>
 
 <h2>Activity 1: Approved Students</h2>
